@@ -1,8 +1,8 @@
 ### Hi there 👋
 # I’m Raana :)
 
- 🔭 I’m currently working as an Andoid Developer in Kasra co 
- 🌱 I’m currently jetpack compse and kmm ...
+- 🔭 I’m currently working as an Andoid Developer in Kasra co 
+ -🌱 I’m currently jetpack compse and kmm 
 <!--
 **raanaYavari/raanaYavari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
