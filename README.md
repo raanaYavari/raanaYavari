@@ -1,8 +1,8 @@
 ### Hi there 👋
 # I’m Raana :)
 
-🔭 I’m currently working as an Andoid Developer in Kasra co <br />
-🌱 I’m learning jetpack compse and kmm  <br />
+🔭 I’m currently working as an Andoid Developer at Baloet  <br />
+🌱 I’m learning jetpack Compose and KMM  <br />
 👯 I’m looking to collaborate on any new challenges <br />
 📫  Reach me at raanayavari@gmail.com <br />
 <!--
